@@ -5,8 +5,16 @@ namespace RobotVsDinosaurs
     class Program
     {
         static void Main(string[] args)
+            
         {
-            Console.WriteLine("Hello World!");
+            BattleField battleField = new BattleField();
+            battleField.RunBattle();
+            Simulation simObject = new Simulation();
+            //simObject.Run();
+
+
+
+            
         }
     }
 }

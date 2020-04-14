@@ -1,0 +1,13 @@
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\bin\Debug\netcoreapp3.1\RobotVsDinosaurs.exe
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\bin\Debug\netcoreapp3.1\RobotVsDinosaurs.deps.json
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\bin\Debug\netcoreapp3.1\RobotVsDinosaurs.runtimeconfig.json
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\bin\Debug\netcoreapp3.1\RobotVsDinosaurs.runtimeconfig.dev.json
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\bin\Debug\netcoreapp3.1\RobotVsDinosaurs.dll
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\bin\Debug\netcoreapp3.1\RobotVsDinosaurs.pdb
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\obj\Debug\netcoreapp3.1\RobotVsDinosaurs.csprojAssemblyReference.cache
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\obj\Debug\netcoreapp3.1\RobotVsDinosaurs.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\obj\Debug\netcoreapp3.1\RobotVsDinosaurs.AssemblyInfoInputs.cache
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\obj\Debug\netcoreapp3.1\RobotVsDinosaurs.AssemblyInfo.cs
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\obj\Debug\netcoreapp3.1\RobotVsDinosaurs.dll
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\obj\Debug\netcoreapp3.1\RobotVsDinosaurs.pdb
+C:\Users\Mikey\source\repos\RobotVsDinosaurs\RobotVsDinosaurs\obj\Debug\netcoreapp3.1\RobotVsDinosaurs.genruntimeconfig.cache
